@@ -24,7 +24,6 @@ function precios(options) {
 function financiacion() {
   for (let i = 1; i <= 6; i++)
     console.warn("Financiamos en", i, " cuotas sin interes!");
-  i = 1 + 1;
 }
 
 function stock() {
